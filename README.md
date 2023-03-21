@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Arshadshacx
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Zero to mastery web development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mohammed Arshad
+- 👀 I’m interested in Quality Assurance, UI/UX designing & website creating.
+- 🌱 I’m learning and upgrading my skills in everyday. 
+- 💞️ I’m looking to collaborate on Webdesigning,Testing & Website building by wordpress.
 - 📫 How to reach me arshad00729@gmail.com
 
 <!---
